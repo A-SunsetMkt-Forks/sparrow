@@ -9,7 +9,7 @@
     "@lukeed/uuid": "^1.0.1",
     "@sparrow-vue/boxs": "^1.1.7",
     "@vue-materials/basic-container": "^1.0.0",
-    "axios": "^0.20.0",
+    "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.3",
     "core-js": "^3.4.3",
     "dropzone": "^5.7.2",
